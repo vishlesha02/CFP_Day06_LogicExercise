@@ -35,10 +35,12 @@ namespace EasyLogicExercise
 
           /*  Divisibleby2or3 p8= new Divisibleby2or3();
             p8.Divisible();*/
-
+/*
             UpperCaseLetters p9 = new UpperCaseLetters();
-            p9.Letters();
-            
+            p9.Letters();*/
+
+            GreaterThanThirdOne p10= new GreaterThanThirdOne();
+            p10.Checks();
         }
 
     }
