@@ -16,9 +16,13 @@ namespace EasyLogicExercise
 
             /*CtoF p2= new CtoF();
             p2.Convert();*/
+            
+            /*Elementary p3=new Elementary();
+              p3.Operations();  */
 
-            Elementary p3=new Elementary();
-            p3.Operations();           
+            IsResultSame p4= new IsResultSame();
+            p4.Sameres();
+
 
         }
     }
