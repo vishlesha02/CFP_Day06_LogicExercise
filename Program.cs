@@ -30,8 +30,11 @@ namespace EasyLogicExercise
             /*Cube p6 = new Cube();
               p6.GiveCube();*/
 
-            AbsoluteValue p7= new AbsoluteValue();
-            p7.Value();
+           /* AbsoluteValue p7= new AbsoluteValue();
+            p7.Value();*/
+
+            Divisibleby2or3 p8= new Divisibleby2or3();
+            p8.Divisible();
 
             
         }
