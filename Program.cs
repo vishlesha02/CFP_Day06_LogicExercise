@@ -11,9 +11,11 @@ namespace EasyLogicExercise
     {
         static void Main(String[] args)
         {
-            AddAndMultiply p1 = new AddAndMultiply();
-            p1.Add();
+            /*AddAndMultiply p1 = new AddAndMultiply();
+            p1.Add();*/
 
+            CtoF p2= new CtoF();
+            p2.Convert();
         }
     }
 
