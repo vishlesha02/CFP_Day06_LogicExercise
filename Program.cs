@@ -24,9 +24,13 @@ namespace EasyLogicExercise
             /*IsResultSame p4= new IsResultSame();
             p4.Sameres();*/
 
-            ModuloOperations p5 = new ModuloOperations();
-            p5.Modulos();
+            /*ModuloOperations p5 = new ModuloOperations();
+            p5.Modulos();*/
+
+            Cube p6 = new Cube();
+            p6.GiveCube();
         }
+
     }
 
 
