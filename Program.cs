@@ -33,9 +33,11 @@ namespace EasyLogicExercise
            /* AbsoluteValue p7= new AbsoluteValue();
             p7.Value();*/
 
-            Divisibleby2or3 p8= new Divisibleby2or3();
-            p8.Divisible();
+          /*  Divisibleby2or3 p8= new Divisibleby2or3();
+            p8.Divisible();*/
 
+            UpperCaseLetters p9 = new UpperCaseLetters();
+            p9.Letters();
             
         }
 
