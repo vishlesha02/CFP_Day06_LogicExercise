@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\bin\Debug\net6.0\EasyLogicExercise.exe
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\bin\Debug\net6.0\EasyLogicExercise.deps.json
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\bin\Debug\net6.0\EasyLogicExercise.runtimeconfig.json
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\bin\Debug\net6.0\EasyLogicExercise.dll
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\bin\Debug\net6.0\EasyLogicExercise.pdb
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\obj\Debug\net6.0\EasyLogicExercise.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\obj\Debug\net6.0\EasyLogicExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\obj\Debug\net6.0\EasyLogicExercise.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\obj\Debug\net6.0\EasyLogicExercise.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\obj\Debug\net6.0\EasyLogicExercise.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\obj\Debug\net6.0\EasyLogicExercise.dll
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\obj\Debug\net6.0\refint\EasyLogicExercise.dll
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\obj\Debug\net6.0\EasyLogicExercise.pdb
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\obj\Debug\net6.0\EasyLogicExercise.genruntimeconfig.cache
+C:\Users\DELL\source\repos\EasyLogicExercise\EasyLogicExercise\obj\Debug\net6.0\ref\EasyLogicExercise.dll
