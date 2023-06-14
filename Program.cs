@@ -26,9 +26,14 @@ namespace EasyLogicExercise
 
             /*ModuloOperations p5 = new ModuloOperations();
             p5.Modulos();*/
+            
+            /*Cube p6 = new Cube();
+              p6.GiveCube();*/
 
-            Cube p6 = new Cube();
-            p6.GiveCube();
+            AbsoluteValue p7= new AbsoluteValue();
+            p7.Value();
+
+            
         }
 
     }
