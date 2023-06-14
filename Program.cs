@@ -14,8 +14,12 @@ namespace EasyLogicExercise
             /*AddAndMultiply p1 = new AddAndMultiply();
             p1.Add();*/
 
-            CtoF p2= new CtoF();
-            p2.Convert();
+            /*CtoF p2= new CtoF();
+            p2.Convert();*/
+
+            Elementary p3=new Elementary();
+            p3.Operations();           
+
         }
     }
 
