@@ -54,12 +54,13 @@ namespace EasyLogicExercise
             p13.Neighbour();
 
             PositiveNegZero p14 = new PositiveNegZero();
-            p14.PnZ();*/
+            p14.PnZ();
 
             FractionSum p15 = new FractionSum();
-            p15.SumOfFraction();
+            p15.SumOfFraction();*/
 
-
+            SortArray p16=new SortArray();
+            p16.Ascending();
         }
 
     }
