@@ -49,10 +49,12 @@ namespace EasyLogicExercise
             /* SortAscending p12=new SortAscending();
              p12.SortArray(); */
 
+            
+            /* NeighbourAlphabet p13 = new NeighbourAlphabet();
+            p13.Neighbour();*/
 
-            NeighbourAlphabet p13 = new NeighbourAlphabet();
-            p13.Neighbour();
-
+            PositiveNegZero p14 = new PositiveNegZero();
+            p14.PnZ();
 
 
 
