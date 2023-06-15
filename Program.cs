@@ -63,10 +63,13 @@ namespace EasyLogicExercise
             p16.Ascending();
 
             MultiplicationT p17=new MultiplicationT();
-            p17.Table();*/
+            p17.Table();
 
             BiggestNumber p18=new BiggestNumber();
-            p18.ArrayBiggest();
+            p18.ArrayBiggest();*/
+
+            TwoSevens p19=new TwoSevens();
+            p19.Sevens();
         }
 
     }
