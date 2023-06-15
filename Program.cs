@@ -35,19 +35,23 @@ namespace EasyLogicExercise
 
             /*  Divisibleby2or3 p8= new Divisibleby2or3();
               p8.Divisible();*/
-            /*
-                        UpperCaseLetters p9 = new UpperCaseLetters();
-                        p9.Letters();*/
+
+            /* UpperCaseLetters p9 = new UpperCaseLetters();
+               p9.Letters();*/
 
             /* GreaterThanThirdOne p10= new GreaterThanThirdOne();
              p10.Checks();*/
-            /*
-                        EvenNumber p11=new EvenNumber();
-                        p11.Number();*/
 
-            SortAscending p12=new SortAscending();
-            p12.SortArray();
 
+            /* EvenNumber p11=new EvenNumber();
+                p11.Number();*/
+
+            /* SortAscending p12=new SortAscending();
+             p12.SortArray(); */
+
+
+            NeighbourAlphabet p13 = new NeighbourAlphabet();
+            p13.Neighbour();
 
 
 
