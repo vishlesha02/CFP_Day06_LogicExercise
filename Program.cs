@@ -57,10 +57,13 @@ namespace EasyLogicExercise
             p14.PnZ();
 
             FractionSum p15 = new FractionSum();
-            p15.SumOfFraction();*/
+            p15.SumOfFraction();
 
             SortArray p16=new SortArray();
-            p16.Ascending();
+            p16.Ascending();*/
+
+            MultiplicationT p17=new MultiplicationT();
+            p17.Table();
         }
 
     }
