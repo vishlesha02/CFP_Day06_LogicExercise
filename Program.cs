@@ -76,10 +76,13 @@ namespace EasyLogicExercise
 
 
             EvenNumbers0to100 p21= new EvenNumbers0to100();
-            p21.ZerotoHundred();*/
+            p21.ZerotoHundred();
 
             Separator p22 = new Separator();
-            p22.AddSeprator();
+            p22.AddSeprator();*/
+
+            Palindrome p23=new Palindrome();
+            p23.StringPalindrom();
         }
 
     }
