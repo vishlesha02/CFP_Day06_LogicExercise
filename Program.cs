@@ -26,24 +26,27 @@ namespace EasyLogicExercise
 
             /*ModuloOperations p5 = new ModuloOperations();
             p5.Modulos();*/
-            
+
             /*Cube p6 = new Cube();
               p6.GiveCube();*/
 
-           /* AbsoluteValue p7= new AbsoluteValue();
-            p7.Value();*/
+            /* AbsoluteValue p7= new AbsoluteValue();
+             p7.Value();*/
 
-          /*  Divisibleby2or3 p8= new Divisibleby2or3();
-            p8.Divisible();*/
-/*
-            UpperCaseLetters p9 = new UpperCaseLetters();
-            p9.Letters();*/
+            /*  Divisibleby2or3 p8= new Divisibleby2or3();
+              p8.Divisible();*/
+            /*
+                        UpperCaseLetters p9 = new UpperCaseLetters();
+                        p9.Letters();*/
 
-           /* GreaterThanThirdOne p10= new GreaterThanThirdOne();
-            p10.Checks();*/
+            /* GreaterThanThirdOne p10= new GreaterThanThirdOne();
+             p10.Checks();*/
+            /*
+                        EvenNumber p11=new EvenNumber();
+                        p11.Number();*/
 
-            EvenNumber p11=new EvenNumber();
-            p11.Number();
+            SortAscending p12=new SortAscending();
+            p12.SortArray();
 
 
 
