@@ -72,11 +72,14 @@ namespace EasyLogicExercise
             p19.Sevens();
 
             ThreeAdjacent p20=new ThreeAdjacent();
-            p20.Numbers();*/
+            p20.Numbers();
 
 
             EvenNumbers0to100 p21= new EvenNumbers0to100();
-            p21.ZerotoHundred();
+            p21.ZerotoHundred();*/
+
+            Separator p22 = new Separator();
+            p22.AddSeprator();
         }
 
     }
