@@ -79,10 +79,14 @@ namespace EasyLogicExercise
             p21.ZerotoHundred();
 
             Separator p22 = new Separator();
-            p22.AddSeprator();*/
+            p22.AddSeprator();
 
             Palindrome p23=new Palindrome();
-            p23.StringPalindrom();
+            p23.StringPalindrom();*/
+
+
+            LengthOfString p24=new LengthOfString();
+            p24.Length();
         }
 
     }
