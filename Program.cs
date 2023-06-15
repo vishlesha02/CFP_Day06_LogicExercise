@@ -39,8 +39,17 @@ namespace EasyLogicExercise
             UpperCaseLetters p9 = new UpperCaseLetters();
             p9.Letters();*/
 
-            GreaterThanThirdOne p10= new GreaterThanThirdOne();
-            p10.Checks();
+           /* GreaterThanThirdOne p10= new GreaterThanThirdOne();
+            p10.Checks();*/
+
+            EvenNumber p11=new EvenNumber();
+            p11.Number();
+
+
+
+
+
+
         }
 
     }
