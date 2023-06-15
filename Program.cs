@@ -82,14 +82,18 @@ namespace EasyLogicExercise
             p22.AddSeprator();
 
             Palindrome p23=new Palindrome();
-            p23.StringPalindrom();*/
+            p23.StringPalindrom();
 
 
-            /* LengthOfString p24=new LengthOfString();
-             p24.Length();*/
+             LengthOfString p24=new LengthOfString();
+             p24.Length();
 
             ReverseString p25 = new ReverseString();
-            p25.Rev();
+            p25.Rev();*/
+
+
+            SumOfDigit p26 = new SumOfDigit();
+            p26.Sum();
         }
 
     }
