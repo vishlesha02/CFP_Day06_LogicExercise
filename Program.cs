@@ -69,10 +69,14 @@ namespace EasyLogicExercise
             p18.ArrayBiggest();
 
             TwoSevens p19=new TwoSevens();
-            p19.Sevens();*/
+            p19.Sevens();
 
             ThreeAdjacent p20=new ThreeAdjacent();
-            p20.Numbers();
+            p20.Numbers();*/
+
+
+            EvenNumbers0to100 p21= new EvenNumbers0to100();
+            p21.ZerotoHundred();
         }
 
     }
