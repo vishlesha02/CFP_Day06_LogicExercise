@@ -60,10 +60,13 @@ namespace EasyLogicExercise
             p15.SumOfFraction();
 
             SortArray p16=new SortArray();
-            p16.Ascending();*/
+            p16.Ascending();
 
             MultiplicationT p17=new MultiplicationT();
-            p17.Table();
+            p17.Table();*/
+
+            BiggestNumber p18=new BiggestNumber();
+            p18.ArrayBiggest();
         }
 
     }
