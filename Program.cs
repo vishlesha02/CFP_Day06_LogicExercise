@@ -85,8 +85,11 @@ namespace EasyLogicExercise
             p23.StringPalindrom();*/
 
 
-            LengthOfString p24=new LengthOfString();
-            p24.Length();
+            /* LengthOfString p24=new LengthOfString();
+             p24.Length();*/
+
+            ReverseString p25 = new ReverseString();
+            p25.Rev();
         }
 
     }
