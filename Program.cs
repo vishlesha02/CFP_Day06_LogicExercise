@@ -66,10 +66,13 @@ namespace EasyLogicExercise
             p17.Table();
 
             BiggestNumber p18=new BiggestNumber();
-            p18.ArrayBiggest();*/
+            p18.ArrayBiggest();
 
             TwoSevens p19=new TwoSevens();
-            p19.Sevens();
+            p19.Sevens();*/
+
+            ThreeAdjacent p20=new ThreeAdjacent();
+            p20.Numbers();
         }
 
     }
