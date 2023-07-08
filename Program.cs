@@ -89,11 +89,14 @@ namespace EasyLogicExercise
              p24.Length();
 
             ReverseString p25 = new ReverseString();
-            p25.Rev();*/
+            p25.Rev();
 
 
             SumOfDigit p26 = new SumOfDigit();
-            p26.Sum();
+            p26.Sum();*/
+
+            FibonacciSeries p27 = new FibonacciSeries();
+            p27.FibSeries();
         }
 
     }
