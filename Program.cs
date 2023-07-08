@@ -93,10 +93,14 @@ namespace EasyLogicExercise
 
 
             SumOfDigit p26 = new SumOfDigit();
-            p26.Sum();*/
+            p26.Sum();
 
             FibonacciSeries p27 = new FibonacciSeries();
-            p27.FibSeries();
+            p27.FibSeries();*/
+
+            PrimeNumber p28 = new PrimeNumber();
+            p28.PNum();
+
         }
 
     }
