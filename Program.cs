@@ -99,10 +99,13 @@ namespace EasyLogicExercise
             p27.FibSeries();
 
             PrimeNumber p28 = new PrimeNumber();
-            p28.PNum();*/
+            p28.PNum();
 
             NumberPalindrome p29 = new NumberPalindrome();
-            p29.pal();
+            p29.pal();*/
+
+            Factorial p30=new Factorial();
+            p30.NumFact();
 
         }
 
