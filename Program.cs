@@ -96,10 +96,13 @@ namespace EasyLogicExercise
             p26.Sum();
 
             FibonacciSeries p27 = new FibonacciSeries();
-            p27.FibSeries();*/
+            p27.FibSeries();
 
             PrimeNumber p28 = new PrimeNumber();
-            p28.PNum();
+            p28.PNum();*/
+
+            NumberPalindrome p29 = new NumberPalindrome();
+            p29.pal();
 
         }
 
